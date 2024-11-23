@@ -1,0 +1,4 @@
+#Wed Nov 13 15:35:08 COT 2024
+base.0=C\:\\Users\\Miguel Angel\\Documents\\GitHub\\Taller_RV\\runner aedes adventure\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
